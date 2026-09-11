@@ -1,1 +1,7 @@
-# cj123
+<div align="center">
+
+# Hey, I'm Chandramouli 👋
+
+### Engineering Student
+
+</div>
