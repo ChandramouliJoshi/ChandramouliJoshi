@@ -116,3 +116,13 @@ Still learning, still experimenting, and definitely still breaking things along 
 - 🤖 Machine Learning & Deep Learning
 - 🌐 Getting better at building web applications
 - 🧠 Exploring AI and how it can be used to build useful things
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="./assets/github-activity.svg" alt="GitHub Activity" width="100%"/>
+
+</div>
