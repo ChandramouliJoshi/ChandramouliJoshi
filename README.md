@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/chandramouli-joshi/)">
+  <a href="https://www.linkedin.com/in/chandramouli-joshi/">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" />
   </a>
   <a href="mailto:joshichandramouli2005@gmail.com">
