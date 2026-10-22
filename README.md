@@ -14,6 +14,10 @@
 
 <p align="center">
 
+  <a href="https://personal-portfolio-website-ivory-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF" />
+  </a>
+
   <a href="https://www.linkedin.com/in/chandramouli-joshi/">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" />
   </a>
